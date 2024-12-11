@@ -22,17 +22,17 @@ main {
 
 input {
     padding: 10px;
-    font-size: 1em;
+    font-size: 20px;
 }
 
 button {
     padding: 10px 20px;
-    font-size: 1em;
+    font-size: 20px;
     margin-top: 10px;
     cursor: pointer;
 }
 
 #message {
     margin-top: 20px;
-    font-size: 1.2em;
+    font-size: 20px;
 }
